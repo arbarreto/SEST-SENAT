@@ -8,11 +8,6 @@
     "watch": "ng build --watch --configuration development",
     "test": "ng test"
   },
-  "styles": [
-    "node_modules/bootstrap/dist/css/bootstrap.min.css",
-    "dist/sest-project/styles.0057fc0bb41db161.css",
-    "src/styles.scss"
-  ],
   "private": true,
   "dependencies": {
     "@angular/animations": "^14.2.0",
