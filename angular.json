@@ -28,8 +28,7 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.scss",
-              "dist/sest-project/styles.0057fc0bb41db161.css"
+              "src/styles.scss"
             ],
             "scripts": []
           },
@@ -97,8 +96,7 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.scss",
-              "dist/sest-project/styles.0057fc0bb41db161.css"
+              "src/styles.scss"
             ],
             "scripts": []
           }
