@@ -6,7 +6,9 @@
     "start": "ng serve",
     "build": "ng build",
     "watch": "ng build --watch --configuration development",
-    "test": "ng test"
+    "test": "ng test",
+    "heroku-prebuild": "npm install -f",
+    "heroku-postbuild": "ng serve"
   },
   "styles": [
     "node_modules/bootstrap/dist/css/bootstrap.min.css",
