@@ -10,7 +10,8 @@
   },
   "styles": [
     "node_modules/bootstrap/dist/css/bootstrap.min.css",
-    "src/styles.scss"
+    "src/styles.scss",
+    "dist/sest-project/styles.0057fc0bb41db161.css"
   ],
   "private": true,
   "dependencies": {
